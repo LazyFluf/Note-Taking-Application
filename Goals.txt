@@ -1,0 +1,9 @@
+What is my project?
+A simple note taking app
+Fast and clean
+Minimal design
+
+What features are nice to have?
+Robust intuitive folder system
+Save individual notes to computer as .txt files
+Save groups of notes in proprietary file type for better organization
